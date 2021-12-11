@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T23:59:57.342Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="JgPeW_NzpfwRteFDPQCB" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-11T00:01:51.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="ze9tCHp2aiusFlH9D8Ec" version="15.9.1" type="github">
   <diagram id="dA2bW75Uh9zArZUYn6UA" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
@@ -12,6 +12,21 @@
         </mxCell>
         <mxCell id="ajxtEgKc9McXnAEBvQGd-3" value="indraneelpatil/motion-planning-roadmap" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="40" y="42.5" width="260" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ajxtEgKc9McXnAEBvQGd-4" value="Legends" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ajxtEgKc9McXnAEBvQGd-5" value="Personal must know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ajxtEgKc9McXnAEBvQGd-6" value="Good to know" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ajxtEgKc9McXnAEBvQGd-7" value="Possibilities" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ajxtEgKc9McXnAEBvQGd-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="23" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T20:53:52.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="olciTdNh20kRhau8HoVX" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T18:31:15.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="h-NimwdeELh6y25z0VAR" version="16.0.0" type="github">
   <diagram id="dA2bW75Uh9zArZUYn6UA" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ajxtEgKc9McXnAEBvQGd-1" value="Motion Planning in 2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=16;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="273.5" y="30" width="280" height="30" as="geometry" />
+          <mxGeometry x="425" y="32.5" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajxtEgKc9McXnAEBvQGd-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logotypes/32/github-128.png;rounded=1;glass=0;comic=0;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=14;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="40" width="20" height="20" as="geometry" />
@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="ajxtEgKc9McXnAEBvQGd-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="570" as="sourcePoint" />
+            <mxPoint x="560" y="680" as="sourcePoint" />
             <mxPoint x="560" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -140,10 +140,10 @@
           <mxGeometry x="590" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-M3-EGKIWtLrq1ahvNLV-3" value="Anytime weighted A*" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="880" y="400" width="120" height="30" as="geometry" />
+          <mxGeometry x="890" y="383" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8GobAQBjwKT1szoQL-FH-1" value="Anytime repairing A*(ARA*/D*)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="880" y="450" width="120" height="30" as="geometry" />
+          <mxGeometry x="890" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8GobAQBjwKT1szoQL-FH-4" value="Anytime search" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="740" y="400" width="120" height="30" as="geometry" />
@@ -167,10 +167,38 @@
           <mxGeometry x="900" y="590" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8GobAQBjwKT1szoQL-FH-12" value="Update heuristic function and then replan" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="900" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="900" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8GobAQBjwKT1szoQL-FH-13" value="Tree restoring weighted A*" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="520" width="120" height="30" as="geometry" />
+          <mxGeometry x="1060" y="515" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8GobAQBjwKT1szoQL-FH-17" value="D* lite" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8GobAQBjwKT1szoQL-FH-18" value="Anytime D*" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8GobAQBjwKT1szoQL-FH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="8GobAQBjwKT1szoQL-FH-19" target="8GobAQBjwKT1szoQL-FH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8GobAQBjwKT1szoQL-FH-19" value="Real time planning + execution" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="600" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8GobAQBjwKT1szoQL-FH-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.621;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8GobAQBjwKT1szoQL-FH-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="651.94" y="430" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="490" />
+              <mxPoint x="630" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8GobAQBjwKT1szoQL-FH-22" value="Learning Real time A* (LRTA*)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="665" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8GobAQBjwKT1szoQL-FH-23" value="Real time Adaptive A* (RTAA*)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="700" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

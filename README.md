@@ -8,3 +8,4 @@ Roadmap of areas of study in motion planning
 * f value of state = total cost to reach the goal through the state ( g value +h value)
 * h value is cost to goal of that state decided by the heuristic function 
 * g value is cost to reach that state from the start position
+* undirected graph -> actions are reversible

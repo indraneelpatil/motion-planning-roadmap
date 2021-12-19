@@ -9,3 +9,4 @@ Roadmap of areas of study in motion planning
 * h value is cost to goal of that state decided by the heuristic function 
 * g value is cost to reach that state from the start position
 * undirected graph -> actions are reversible
+* Avoid collision checking by comparing distance to obstacles with radius of inner and outer circles

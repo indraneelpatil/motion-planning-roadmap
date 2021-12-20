@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T03:13:10.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YmT4qn4zXdqZClaqIvmb" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T22:29:26.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="f8WD_gJP2ohWLW3VJNlc" version="16.0.0" type="github">
   <diagram id="dA2bW75Uh9zArZUYn6UA" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -313,7 +313,16 @@
           <mxGeometry x="790" y="800" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0FaTwpf6lRSCGCkcenpz-6" value="Single query planning" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="790" y="860" width="120" height="30" as="geometry" />
+          <mxGeometry x="790" y="900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaTwpf6lRSCGCkcenpz-8" value="Rapidly Exploring Random Tree (RRT)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="940" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaTwpf6lRSCGCkcenpz-9" value="RRT-Connect" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="940" y="900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaTwpf6lRSCGCkcenpz-10" value="RRT*" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="940" y="940" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

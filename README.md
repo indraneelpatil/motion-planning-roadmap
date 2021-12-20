@@ -15,3 +15,4 @@ Roadmap of areas of study in motion planning
 * Connecting two trees in RRT connect can be quite tricky for kinodynamic planning 
 * Usual trade offs in planning completeness vs optimality vs computation vs running time
 * Weights in a cost function for computing edge costs can be learned using imitation learning
+* Metric Space : The distance function of the space follows the generalised euclidean metric

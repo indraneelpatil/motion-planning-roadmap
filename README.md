@@ -12,3 +12,4 @@ Roadmap of areas of study in motion planning
 * Avoid collision checking by comparing distance to obstacles with radius of inner and outer circles
 * Graph search : deterministic completeness based on discretisation
 * Sampling based planning : probabilistic completeness based on number of samples 
+* Connecting two trees in RRT connect can be quite tricky for kinodynamic planning 

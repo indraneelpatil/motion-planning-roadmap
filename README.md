@@ -13,3 +13,4 @@ Roadmap of areas of study in motion planning
 * Graph search : deterministic completeness based on discretisation
 * Sampling based planning : probabilistic completeness based on number of samples 
 * Connecting two trees in RRT connect can be quite tricky for kinodynamic planning 
+* Usual trade offs in planning completeness vs optimality vs computation vs running time

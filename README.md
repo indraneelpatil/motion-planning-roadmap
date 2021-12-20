@@ -10,3 +10,5 @@ Roadmap of areas of study in motion planning
 * g value is cost to reach that state from the start position
 * undirected graph -> actions are reversible
 * Avoid collision checking by comparing distance to obstacles with radius of inner and outer circles
+* Graph search : deterministic completeness based on discretisation
+* Sampling based planning : probabilistic completeness based on number of samples 

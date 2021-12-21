@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T17:18:50.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wR51edArKKzbGvBgYRpW" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T17:21:51.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2V7-3K01BBU9QPMMOsPH" version="16.0.0" type="github">
   <diagram id="dA2bW75Uh9zArZUYn6UA" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
         <mxCell id="T82tp0KF5x1Off8GfAaw-12" value="Implicit graph of sequence of waypoints" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="770" y="1000" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T82tp0KF5x1Off8GfAaw-13" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Sequence of waypoints&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T82tp0KF5x1Off8GfAaw-13" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Visit sequence of waypoints&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="980" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="T82tp0KF5x1Off8GfAaw-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">

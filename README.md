@@ -16,3 +16,4 @@ Roadmap of areas of study in motion planning
 * Usual trade offs in planning completeness vs optimality vs computation vs running time
 * Weights in a cost function for computing edge costs can be learned using imitation learning
 * Metric Space : The distance function of the space follows the generalised euclidean metric
+* Markov property: Cost of transition and set of successor states in the graph only depends on the current state (not on the history)

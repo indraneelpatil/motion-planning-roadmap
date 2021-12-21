@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T17:21:51.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2V7-3K01BBU9QPMMOsPH" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T17:36:07.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="iNHPQJNPt_ydLHJtZfno" version="16.0.0" type="github">
   <diagram id="dA2bW75Uh9zArZUYn6UA" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="ajxtEgKc9McXnAEBvQGd-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="1330" as="sourcePoint" />
+            <mxPoint x="560" y="1770" as="sourcePoint" />
             <mxPoint x="560" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -386,6 +386,28 @@
               <mxPoint x="635" y="1055" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T82tp0KF5x1Off8GfAaw-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="1430" as="sourcePoint" />
+            <mxPoint x="1075" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T82tp0KF5x1Off8GfAaw-17" value="Markov Decision Processes" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T82tp0KF5x1Off8GfAaw-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8GobAQBjwKT1szoQL-FH-48" target="T82tp0KF5x1Off8GfAaw-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442.5" y="1245" as="sourcePoint" />
+            <mxPoint x="507.5" y="1325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="442.5" y="1295" />
+              <mxPoint x="507.5" y="1245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T82tp0KF5x1Off8GfAaw-19" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Imperfect execution between states,&amp;nbsp; actions can have multiple outcomes, uncertainty in environment&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1510" width="150" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

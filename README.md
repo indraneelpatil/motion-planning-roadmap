@@ -17,3 +17,5 @@ Roadmap of areas of study in motion planning
 * Weights in a cost function for computing edge costs can be learned using imitation learning
 * Metric Space : The distance function of the space follows the generalised euclidean metric
 * Markov property: Cost of transition and set of successor states in the graph only depends on the current state (not on the history)
+* If dependent variables break the markov property it may or may not introduce incompleteness
+* Dominance relation : if g(s) < g(s') and s dominates s' then s' can be pruned from search

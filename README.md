@@ -1,6 +1,9 @@
 # motion-planning-roadmap
 Roadmap of areas of study in motion planning
 
+### Credits
+This roadmap is based on 16-782 Planning and Decision Making in robotics offered by Prof. Maxim Likhachev at CMU https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/
+
 ### Notes
 * Admissibility of a Heuristic : Guaranteed to not overestimate to cost of least cost path from any state to the goal
 * Backward search : is more benefitial if you know that the goal is stationary but robot is moving so costs can be reused for replanning if needed
@@ -19,3 +22,8 @@ Roadmap of areas of study in motion planning
 * Markov property: Cost of transition and set of successor states in the graph only depends on the current state (not on the history)
 * If dependent variables break the markov property it may or may not introduce incompleteness
 * Dominance relation : if g(s) < g(s') and s dominates s' then s' can be pruned from search
+
+### Roadmap
+
+![Roadmap](./roadmap.png)
+

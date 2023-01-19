@@ -6,6 +6,7 @@ This roadmap is based on 16-782 Planning and Decision Making in robotics offered
 
 ### Notes
 * Admissibility of a Heuristic : Guaranteed to not overestimate to cost of least cost path from any state to the goal
+* Consistency of heuristic : The f value of child node should not be less than f value of parent node
 * Backward search : is more benefitial if you know that the goal is stationary but robot is moving so costs can be reused for replanning if needed
 * Free space assumption : Whatever you dont know assume it as free space to ensure completeness
 * f value of state = total cost to reach the goal through the state ( g value +h value)
